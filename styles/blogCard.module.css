@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@770&display=swap');
+
+.BlogCard_container {
+  margin-top: 2rem;
+  margin: 2rem 0 2rem 0;
+  background-color: teal;
+  font-family: 'Work Sans', sans-serif;
+}
+
+/* .card{
+  margin: 0;
+  font-size: 150%;
+  color: white;
+  background-color: orange;
+
+} */
+
+.aStyle {
+  color: #acaf2c;
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 200%;
+  background: blue;
+  /* text-shadow: 2px 2px white; */
+}
+
+.LinkStyle{
+  margin-top: 100px;
+  background: green;
+}
+.LinkStyle :hover{
+  border: 3px orange ridge;
+  transition: border 0s ease;
+  text-decoration: none;
+  color:white;
+  background: black;
+}
+
+.hr {
+  border:0;
+  background-color: pink;
+  left: 0;
+  height:3px;
+  width: 100%;
+}

@@ -10,7 +10,7 @@ export default function HeroFooter() {
             <footer className = {FooterStyles.container}>
                 <div className = {FooterStyles.copyRight}>
                     <p className = {FooterStyles.p}>
-                        ©yunlostinemotion. All rights reserved.
+                        ©yunlostinemotion. 2021 All rights reserved.
                     </p>
                 </div>
             </footer>
