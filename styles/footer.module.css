@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@770&display=swap');
+
+.container{
+  color: white;
+  background-color: black;
+  width: 100%;
+  font-family: 'Work Sans', sans-serif;
+  border-top: 3px solid red;
+  height: 100%;
+  margin-bottom: -50px;
+} 
+
+.copyRight{
+  /* display: flex; */
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem ;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  background-color: brown;
+}
+
+.p{
+  font-size: 1.2rem;
+}
